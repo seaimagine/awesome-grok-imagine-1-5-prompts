@@ -1,6 +1,6 @@
 # Grok Imagine 1.5 Prompt Library
 
-This index contains 40 original video prompts written specifically for short, audio-aware Grok Imagine 1.5 workflows.
+This index contains 60 original video prompts across 12 practical collections, written specifically for short, audio-aware Grok Imagine 1.5 workflows.
 
 | # | Collection | Prompt count |
 |---:|---|---:|
@@ -12,6 +12,10 @@ This index contains 40 original video prompts written specifically for short, au
 | 6 | [Fantasy & science fiction](fantasy-scifi.md) | 5 |
 | 7 | [Comedy, memes & social](comedy-memes-social.md) | 5 |
 | 8 | [Sports, music & architecture](sports-music-architecture.md) | 5 |
+| 9 | [Creative editing & transitions](creative-editing-transitions.md) | 5 |
+| 10 | [Commerce, livestream & digital humans](commerce-digital-humans.md) | 5 |
+| 11 | [Education, science & industry](education-science-industry.md) | 5 |
+| 12 | [Nature, festivals & pets](nature-festivals-pets.md) | 5 |
 
 ## Placeholder convention
 
@@ -24,4 +28,4 @@ Replace bracketed variables before generating. Keep literal dialogue inside quot
 3. Use a clean starting image for product geometry or character identity.
 4. Generate the final take at the resolution appropriate for delivery.
 
-[Use Grok Imagine 1.5 online](https://seaimagine.com/model/grok-imagine-1-5/) · [Back to the main guide](../README.md)
+[Use Grok Imagine 1.5 online](https://seaimagine.com/model/grok-imagine-1-5/) · [Submit an original prompt](https://github.com/seaimagine/awesome-grok-imagine-1-5-prompts/issues/new?template=prompt.yml) · [Back to the main guide](../README.md)

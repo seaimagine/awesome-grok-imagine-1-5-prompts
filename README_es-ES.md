@@ -1,6 +1,6 @@
 # 🎬 Prompts para Grok Imagine 1.5
 
-Una colección original de 40 prompts prácticos para vídeo con Grok Imagine 1.5: cine, anuncios UGC, anime, viajes, moda, gastronomía, ciencia ficción, comedia, deporte, música y arquitectura.
+Una colección original de 60 prompts prácticos para vídeo con Grok Imagine 1.5 en 12 áreas: narrativa, publicidad, animación, edición creativa, humanos digitales, educación, ciencia, naturaleza, mascotas y más.
 
 [English](README.md) · [简体中文](README_zh-CN.md) · [日本語](README_ja-JP.md) · **Español** · [한국어](README_ko-KR.md)
 
@@ -18,6 +18,10 @@ Una colección original de 40 prompts prácticos para vídeo con Grok Imagine 1.
 - [Fantasía y ciencia ficción](prompts/fantasy-scifi.md)
 - [Comedia, memes y redes](prompts/comedy-memes-social.md)
 - [Deporte, música y arquitectura](prompts/sports-music-architecture.md)
+- [Edición creativa y transiciones](prompts/creative-editing-transitions.md)
+- [Comercio, directos y humanos digitales](prompts/commerce-digital-humans.md)
+- [Educación, ciencia e industria](prompts/education-science-industry.md)
+- [Naturaleza, festividades y mascotas](prompts/nature-festivals-pets.md)
 
 ## Plantilla base en español
 
@@ -41,4 +45,4 @@ EVITAR: caras deformadas, manos o extremidades adicionales, movimiento de goma, 
 
 Para datos técnicos actualizados, consulta la [documentación oficial de xAI](https://docs.x.ai/developers/model-capabilities/video/generation).
 
-[Ver los 40 prompts](prompts/README.md) · [Volver a la guía principal](README.md)
+[Ver los 60 prompts](prompts/README.md) · [Enviar un prompt](https://github.com/seaimagine/awesome-grok-imagine-1-5-prompts/issues/new?template=prompt.yml) · [Volver a la guía principal](README.md)

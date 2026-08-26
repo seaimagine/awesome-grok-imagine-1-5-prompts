@@ -1,6 +1,6 @@
 # 🎬 Grok Imagine 1.5 프롬프트 모음
 
-Grok Imagine 1.5에 맞춰 새로 작성한 실전 AI 동영상 프롬프트 40개입니다. 영화, UGC 광고, 애니메이션, 여행, 패션, 음식, SF, 코미디, 스포츠, 음악, 건축 장면을 다룹니다.
+Grok Imagine 1.5에 맞춰 새로 작성한 실전 AI 동영상 프롬프트 60개입니다. 스토리, 광고, 애니메이션, 창의적 편집, 디지털 휴먼, 교육, 과학, 자연, 반려동물 등 12개 분야를 다룹니다.
 
 [English](README.md) · [简体中文](README_zh-CN.md) · [日本語](README_ja-JP.md) · [Español](README_es-ES.md) · **한국어**
 
@@ -18,6 +18,10 @@ Grok Imagine 1.5에 맞춰 새로 작성한 실전 AI 동영상 프롬프트 40�
 - [판타지 및 SF](prompts/fantasy-scifi.md)
 - [코미디, 밈 및 소셜](prompts/comedy-memes-social.md)
 - [스포츠, 음악 및 건축](prompts/sports-music-architecture.md)
+- [창의적 편집 및 전환](prompts/creative-editing-transitions.md)
+- [커머스, 라이브 및 디지털 휴먼](prompts/commerce-digital-humans.md)
+- [교육, 과학 및 산업](prompts/education-science-industry.md)
+- [자연, 계절 축제 및 반려동물](prompts/nature-festivals-pets.md)
 
 ## 한국어 기본 템플릿
 
@@ -41,4 +45,4 @@ Grok Imagine 1.5에 맞춰 새로 작성한 실전 AI 동영상 프롬프트 40�
 
 최신 사양은 [xAI 공식 동영상 생성 문서](https://docs.x.ai/developers/model-capabilities/video/generation)를 확인하세요.
 
-[40개 프롬프트 보기](prompts/README.md) · [메인 가이드로 돌아가기](README.md)
+[60개 프롬프트 보기](prompts/README.md) · [프롬프트 제출](https://github.com/seaimagine/awesome-grok-imagine-1-5-prompts/issues/new?template=prompt.yml) · [메인 가이드로 돌아가기](README.md)

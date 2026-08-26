@@ -1,0 +1,113 @@
+name: Submit a Grok Imagine 1.5 prompt
+description: Share an original, tested prompt without needing to open a pull request.
+title: "[Prompt]: "
+labels:
+  - prompt-submission
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping expand the library. Submit work you created or have the right to publish. We may edit accepted prompts for clarity, consistency, safety, and Grok Imagine 1.5 compatibility.
+
+  - type: input
+    id: title
+    attributes:
+      label: Prompt title
+      description: Use a descriptive, searchable title rather than a number or hype-only phrase.
+      placeholder: Modular Desk Lamp — vertical livestream demonstration
+    validations:
+      required: true
+
+  - type: dropdown
+    id: collection
+    attributes:
+      label: Collection
+      options:
+        - Cinematic storytelling
+        - UGC and product ads
+        - Anime and stylized action
+        - Travel and lifestyle
+        - Fashion, beauty, and food
+        - Fantasy and science fiction
+        - Comedy, memes, and social
+        - Sports, music, and spaces
+        - Creative editing and transitions
+        - Commerce, livestream, and digital humans
+        - Education, science, and industry
+        - Nature, festivals, and pets
+        - New collection suggestion
+    validations:
+      required: true
+
+  - type: dropdown
+    id: mode
+    attributes:
+      label: Recommended mode
+      options:
+        - Text-to-video
+        - Image-to-video
+        - Reference-to-video
+        - Video editing
+        - Video extension
+        - Not sure
+    validations:
+      required: true
+
+  - type: input
+    id: settings
+    attributes:
+      label: Duration and aspect ratio
+      description: Grok Imagine Video 1.5 clips should fit within 1–15 seconds.
+      placeholder: 10 seconds, 9:16
+    validations:
+      required: true
+
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Copy-ready prompt
+      description: Include subject lock, scene, timeline, camera, physics, audio, continuity, and avoid constraints when relevant.
+      render: text
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Why it works and test notes
+      description: Explain the intended result, what you tested, what remained difficult, and any useful variables.
+      placeholder: Tested at 720p in image-to-video mode. The fixed camera and one-action-per-beat structure helped preserve the product geometry.
+    validations:
+      required: true
+
+  - type: input
+    id: language
+    attributes:
+      label: Prompt or dialogue language
+      placeholder: English prompt with Spanish dialogue
+
+  - type: textarea
+    id: preview
+    attributes:
+      label: Preview media and rights
+      description: Add a link or drag in an original preview image/video, then state that you are authorized to publish it. Preview media is encouraged but not required.
+
+  - type: input
+    id: credit
+    attributes:
+      label: Optional contributor credit
+      description: Tell us the name or profile link you want displayed. Leave blank for no public credit.
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Submission checklist
+      options:
+        - label: I created this prompt, or I have the rights needed to publish it; it is not scraped or lightly paraphrased from another creator.
+          required: true
+        - label: Any real person, brand, private media, or copyrighted character included here is authorized for this use.
+          required: true
+        - label: I have the right to publish any attached preview media.
+          required: true
+        - label: I agree that accepted material may be edited and distributed under the repository's MIT License.
+          required: true

@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Use Grok Imagine 1.5 online
+    url: https://seaimagine.com/model/grok-imagine-1-5/
+    about: Open the online creation page before testing or adapting a prompt.
+  - name: Read the contribution guide
+    url: https://github.com/seaimagine/awesome-grok-imagine-1-5-prompts/blob/main/CONTRIBUTING.md
+    about: Review prompt quality, originality, safety, and preview-media requirements.

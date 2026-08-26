@@ -2,16 +2,18 @@
 
 # 🎬 Awesome Grok Imagine 1.5 Prompts
 
-**40 original, production-ready Grok Imagine 1.5 video prompts for cinematic stories, UGC ads, anime action, travel, fashion, food, fantasy, comedy, sports, music, and real estate.**
+**60 original, production-ready Grok Imagine 1.5 video prompts for storytelling, ads, animation, creative editing, digital humans, education, science, nature, pets, and more.**
 
 [![English](https://img.shields.io/badge/English-current-111827)](README.md)
 [![简体中文](https://img.shields.io/badge/简体中文-阅读-EF4444)](README_zh-CN.md)
 [![日本語](https://img.shields.io/badge/日本語-読む-2563EB)](README_ja-JP.md)
 [![Español](https://img.shields.io/badge/Español-leer-F59E0B)](README_es-ES.md)
 [![한국어](https://img.shields.io/badge/한국어-읽기-10B981)](README_ko-KR.md)
+[![Prompts](https://img.shields.io/badge/Prompts-60-EC4899)](prompts/README.md)
+[![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-22C55E)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-7C3AED.svg)](LICENSE)
 
-### [✨ Use Grok Imagine 1.5 Online →](https://seaimagine.com/model/grok-imagine-1-5/)
+### [Browse 60 prompts](prompts/README.md) · [Submit a prompt](https://github.com/seaimagine/awesome-grok-imagine-1-5-prompts/issues/new?template=prompt.yml) · [Use Grok Imagine 1.5 online](https://seaimagine.com/model/grok-imagine-1-5/)
 
 Copy a prompt, replace the bracketed variables, add a reference image when useful, and generate.
 
@@ -23,7 +25,7 @@ Copy a prompt, replace the bracketed variables, add a reference image when usefu
 
 Short video models reward focus. A prompt that asks for five locations, three costume changes, two plot twists, and perfect dialogue in ten seconds usually produces visual drift. This collection is written around Grok Imagine Video 1.5's strengths: convincing motion and physics, synchronized sound effects and speech, fast image-to-video workflows, and clips up to 15 seconds.
 
-Every prompt in this repository is newly written for this collection. Every displayed image is newly generated for the project. The examples use fictional people, products, places, and stories; no third-party prompt text, creator credits, screenshots, or promotional assets are included.
+The maintained core collection is newly written for this project, and every displayed image is newly generated for it. The examples use fictional people, products, places, and stories; no third-party prompt text, screenshots, or promotional assets are republished. Community submissions must be original or fully authorized, and contributor credit is optional.
 
 ## What is Grok Imagine 1.5?
 
@@ -50,8 +52,12 @@ Useful official references:
 | [Fantasy & science fiction](prompts/fantasy-scifi.md) | Worldbuilding, creatures, mecha, surreal VFX | 5 | ![Science fantasy](assets/fantasy-scifi.png) |
 | [Comedy, memes & social](prompts/comedy-memes-social.md) | Visual gags, mascots, loops, vertical shorts | 5 | ![Comedy animation](assets/comedy-meme.png) |
 | [Sports, music & spaces](prompts/sports-music-architecture.md) | Sports ads, music video, real estate, interiors | 5 | ![Food and lifestyle cinematography](assets/food-asmr.png) |
+| [Creative editing & transitions](prompts/creative-editing-transitions.md) | Match cuts, reference transitions, edits, extensions | 5 | ![Creative match-cut sequence](assets/creative-editing.png) |
+| [Commerce, livestream & digital humans](prompts/commerce-digital-humans.md) | Livestream demos, multilingual presenters, honest product tests | 5 | ![Creator commerce demonstration](assets/commerce-digital-human.png) |
+| [Education, science & industry](prompts/education-science-industry.md) | Visual explainers, physical processes, manufacturing workflows | 5 | ![Science and industrial process](assets/education-industry.png) |
+| [Nature, festivals & pets](prompts/nature-festivals-pets.md) | Seasonal stories, astronomy, animal-safe social content | 5 | ![Pet and seasonal community scene](assets/nature-festival-pets.png) |
 
-**Total: 40 original prompts** — each includes a recommended mode, duration, aspect ratio, a detailed copy-ready prompt, and variables to customize.
+**Total: 60 original prompts across 12 practical collections** — each includes a recommended mode, duration, aspect ratio, a detailed copy-ready prompt, and variables to customize.
 
 ## Fast start
 
@@ -140,7 +146,14 @@ Localized introductions and starter prompts:
 
 ## Contributing
 
-Original contributions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request. A useful submission includes the prompt, intended mode, duration, aspect ratio, why the structure works, and an original preview asset you are authorized to publish.
+Have a Grok Imagine 1.5 workflow that belongs here? Contributions in any language are welcome. You do not need to know Git:
+
+- [Submit a prompt with the guided issue form](https://github.com/seaimagine/awesome-grok-imagine-1-5-prompts/issues/new?template=prompt.yml) — paste the prompt, settings, test notes, and optional preview media.
+- [Open a pull request](https://github.com/seaimagine/awesome-grok-imagine-1-5-prompts/pulls) — best for adding a complete prompt file, translation, documentation improvement, or authorized visual asset.
+
+We especially welcome tested workflows for underrepresented languages, accessibility, editing and extension, consistent products or characters, educational visualization, industrial processes, and culturally specific scenes written by people who know them well. Useful submissions explain the intended mode, duration, aspect ratio, why the structure works, and any known limitation.
+
+Submissions are reviewed for originality, usefulness, model fit, safety, clarity, and publishing rights. Maintainers may restructure accepted prompts to match the library while preserving optional contributor credit. Read the full [contribution guide](CONTRIBUTING.md).
 
 ## License
 
@@ -152,6 +165,6 @@ Code and original written material in this repository are available under the [M
 
 **Grok Imagine 1.5 prompts · AI video prompts · text to video · image to video · video editing · native audio**
 
-[Start creating online](https://seaimagine.com/model/grok-imagine-1-5/) · [Browse all 40 prompts](prompts/README.md)
+[Start creating online](https://seaimagine.com/model/grok-imagine-1-5/) · [Browse all 60 prompts](prompts/README.md) · [Share your prompt](https://github.com/seaimagine/awesome-grok-imagine-1-5-prompts/issues/new?template=prompt.yml)
 
 </div>

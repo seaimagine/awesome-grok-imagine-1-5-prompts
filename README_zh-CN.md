@@ -2,11 +2,11 @@
 
 # 🎬 Awesome Grok Imagine 1.5 提示词库
 
-**40 个原创、可直接复制的 Grok Imagine 1.5 视频提示词，覆盖电影短片、UGC 广告、动漫动作、旅行 Vlog、时尚美妆、美食 ASMR、科幻奇幻、搞笑短视频、体育、音乐与空间展示。**
+**60 个原创、可直接复制的 Grok Imagine 1.5 视频提示词，覆盖叙事、广告、动画、创意转场、数字人、科普、工业、自然、节气与萌宠等实用场景。**
 
 [English](README.md) · **简体中文** · [日本語](README_ja-JP.md) · [Español](README_es-ES.md) · [한국어](README_ko-KR.md)
 
-### [✨ 在线使用 Grok Imagine 1.5 →](https://seaimagine.com/model/grok-imagine-1-5/)
+### [浏览 60 个提示词](prompts/README.md) · [提交你的提示词](https://github.com/seaimagine/awesome-grok-imagine-1-5-prompts/issues/new?template=prompt.yml) · [在线使用 Grok Imagine 1.5](https://seaimagine.com/model/grok-imagine-1-5/)
 
 </div>
 
@@ -33,7 +33,7 @@
 - [Imagine 能力总览](https://docs.x.ai/developers/model-capabilities/imagine)
 - [视频生成参数与工作流](https://docs.x.ai/developers/model-capabilities/video/generation)
 
-## 40 个原创提示词
+## 60 个原创提示词
 
 | 分类 | 适用场景 | 数量 |
 |---|---|---:|
@@ -45,6 +45,10 @@
 | [科幻与奇幻](prompts/fantasy-scifi.md) | 世界观、幻想生物、太空、工业特效 | 5 |
 | [搞笑、梗与社交内容](prompts/comedy-memes-social.md) | 萌宠、视觉梗、循环短视频、吉祥物 | 5 |
 | [体育、音乐与空间](prompts/sports-music-architecture.md) | 体育广告、MV、建筑、室内改造 | 5 |
+| [创意剪辑与转场](prompts/creative-editing-transitions.md) | 匹配剪辑、参考图转场、视频编辑与续写 | 5 |
+| [电商、直播与数字人](prompts/commerce-digital-humans.md) | 直播带货、产品演示、多语言数字人 | 5 |
+| [教育、科学与工业](prompts/education-science-industry.md) | 科普演示、物理过程、制造流程 | 5 |
+| [自然、节气与萌宠](prompts/nature-festivals-pets.md) | 四季节气、天文自然、动物友好内容 | 5 |
 
 [浏览完整提示词目录](prompts/README.md)
 
@@ -131,6 +135,15 @@
 
 使用真实人物的脸、声音、肖像、私人空间或个人素材前，请先获得授权。对于可能被误认为新闻、证据、代言或纪录片的合成内容，应进行清晰披露。请勿用于冒充、欺诈、骚扰、非自愿私密内容或误导性政治与医疗信息。
 
+## 欢迎提交你的提示词
+
+无论使用哪种语言，都欢迎分享经过测试、适合 Grok Imagine 1.5 的原创提示词。不会使用 Git 也没关系：
+
+- [使用引导式表单提交提示词](https://github.com/seaimagine/awesome-grok-imagine-1-5-prompts/issues/new?template=prompt.yml)：填写生成模式、时长、比例、完整提示词、测试心得和可选预览素材；
+- [发起 Pull Request](https://github.com/seaimagine/awesome-grok-imagine-1-5-prompts/pulls)：适合提交完整分类、翻译、文档改进或已获授权的视觉素材。
+
+我们特别欢迎小语种、本地文化场景、无障碍内容、视频编辑与续写、角色或商品一致性、教育科普和工业流程方面的高质量案例。所有投稿都会从原创性、实用性、模型适配、安全性、表达清晰度和发布授权等方面审核；维护者可能统一结构和措辞，并按投稿者意愿保留公开署名。详细要求见 [贡献指南](CONTRIBUTING.md)。
+
 ## 许可
 
 本仓库中的代码和原创文字内容采用 [MIT License](LICENSE)。生成图片还可能受到相应生成服务条款约束；你的实际生成结果需自行确认模型平台、肖像、商标和发行要求。
@@ -139,6 +152,6 @@
 
 <div align="center">
 
-[立即在线使用 Grok Imagine 1.5](https://seaimagine.com/model/grok-imagine-1-5/) · [查看全部 40 个提示词](prompts/README.md)
+[立即在线使用 Grok Imagine 1.5](https://seaimagine.com/model/grok-imagine-1-5/) · [查看全部 60 个提示词](prompts/README.md) · [分享你的提示词](https://github.com/seaimagine/awesome-grok-imagine-1-5-prompts/issues/new?template=prompt.yml)
 
 </div>
