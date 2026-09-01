@@ -2,11 +2,11 @@
 
 # 🎬 Awesome Grok Imagine 1.5 提示词库
 
-**60 个原创、可直接复制的 Grok Imagine 1.5 视频提示词，覆盖叙事、广告、动画、创意转场、数字人、科普、工业、自然、节气与萌宠等实用场景。**
+**70 个原创、可直接复制的 Grok Imagine 1.5 视频提示词，覆盖叙事短剧、广告、动画、创意转场、实验特效、数字人、科普、工业、自然与萌宠等实用场景。**
 
 [English](README.md) · **简体中文** · [日本語](README_ja-JP.md) · [Español](README_es-ES.md) · [한국어](README_ko-KR.md)
 
-### [浏览 60 个提示词](prompts/README.md) · [提交你的提示词](https://github.com/seaimagine/awesome-grok-imagine-1-5-prompts/issues/new?template=prompt.yml) · [在线使用 Grok Imagine 1.5](https://seaimagine.com/model/grok-imagine-1-5/)
+### [浏览 70 个提示词](prompts/README.md) · [提交你的提示词](https://github.com/seaimagine/awesome-grok-imagine-1-5-prompts/issues/new?template=prompt.yml) · [在线使用 Grok Imagine 1.5](https://seaimagine.com/model/grok-imagine-1-5/)
 
 </div>
 
@@ -33,7 +33,7 @@
 - [Imagine 能力总览](https://docs.x.ai/developers/model-capabilities/imagine)
 - [视频生成参数与工作流](https://docs.x.ai/developers/model-capabilities/video/generation)
 
-## 60 个原创提示词
+## 70 个原创提示词
 
 | 分类 | 适用场景 | 数量 |
 |---|---|---:|
@@ -49,6 +49,8 @@
 | [电商、直播与数字人](prompts/commerce-digital-humans.md) | 直播带货、产品演示、多语言数字人 | 5 |
 | [教育、科学与工业](prompts/education-science-industry.md) | 科普演示、物理过程、制造流程 | 5 |
 | [自然、节气与萌宠](prompts/nature-festivals-pets.md) | 四季节气、天文自然、动物友好内容 | 5 |
+| [竖屏短剧与系列故事](prompts/short-form-drama-series.md) | 开场钩子、对白转折、悬疑与连续剧结尾 | 5 |
+| [实验特效与物理](prompts/experimental-vfx-physics.md) | 超现实系统、重力、影子、材质和声音响应 | 5 |
 
 [浏览完整提示词目录](prompts/README.md)
 
@@ -152,6 +154,6 @@
 
 <div align="center">
 
-[立即在线使用 Grok Imagine 1.5](https://seaimagine.com/model/grok-imagine-1-5/) · [查看全部 60 个提示词](prompts/README.md) · [分享你的提示词](https://github.com/seaimagine/awesome-grok-imagine-1-5-prompts/issues/new?template=prompt.yml)
+[立即在线使用 Grok Imagine 1.5](https://seaimagine.com/model/grok-imagine-1-5/) · [查看全部 70 个提示词](prompts/README.md) · [分享你的提示词](https://github.com/seaimagine/awesome-grok-imagine-1-5-prompts/issues/new?template=prompt.yml)
 
 </div>

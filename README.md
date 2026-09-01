@@ -2,18 +2,18 @@
 
 # 🎬 Awesome Grok Imagine 1.5 Prompts
 
-**60 original, production-ready Grok Imagine 1.5 video prompts for storytelling, ads, animation, creative editing, digital humans, education, science, nature, pets, and more.**
+**70 original, production-ready Grok Imagine 1.5 video prompts for storytelling, short drama, ads, animation, experimental VFX, digital humans, education, science, nature, pets, and more.**
 
 [![English](https://img.shields.io/badge/English-current-111827)](README.md)
 [![简体中文](https://img.shields.io/badge/简体中文-阅读-EF4444)](README_zh-CN.md)
 [![日本語](https://img.shields.io/badge/日本語-読む-2563EB)](README_ja-JP.md)
 [![Español](https://img.shields.io/badge/Español-leer-F59E0B)](README_es-ES.md)
 [![한국어](https://img.shields.io/badge/한국어-읽기-10B981)](README_ko-KR.md)
-[![Prompts](https://img.shields.io/badge/Prompts-60-EC4899)](prompts/README.md)
+[![Prompts](https://img.shields.io/badge/Prompts-70-EC4899)](prompts/README.md)
 [![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-22C55E)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-7C3AED.svg)](LICENSE)
 
-### [Browse 60 prompts](prompts/README.md) · [Submit a prompt](https://github.com/seaimagine/awesome-grok-imagine-1-5-prompts/issues/new?template=prompt.yml) · [Use Grok Imagine 1.5 online](https://seaimagine.com/model/grok-imagine-1-5/)
+### [Browse 70 prompts](prompts/README.md) · [Submit a prompt](https://github.com/seaimagine/awesome-grok-imagine-1-5-prompts/issues/new?template=prompt.yml) · [Use Grok Imagine 1.5 online](https://seaimagine.com/model/grok-imagine-1-5/)
 
 Copy a prompt, replace the bracketed variables, add a reference image when useful, and generate.
 
@@ -56,8 +56,10 @@ Useful official references:
 | [Commerce, livestream & digital humans](prompts/commerce-digital-humans.md) | Livestream demos, multilingual presenters, honest product tests | 5 | ![Creator commerce demonstration](assets/commerce-digital-human.png) |
 | [Education, science & industry](prompts/education-science-industry.md) | Visual explainers, physical processes, manufacturing workflows | 5 | ![Science and industrial process](assets/education-industry.png) |
 | [Nature, festivals & pets](prompts/nature-festivals-pets.md) | Seasonal stories, astronomy, animal-safe social content | 5 | ![Pet and seasonal community scene](assets/nature-festival-pets.png) |
+| [Short-form drama & web series](prompts/short-form-drama-series.md) | Vertical hooks, dialogue turns, mysteries, episodic cliffhangers | 5 | ![Original short-form drama scene](assets/short-form-drama.png) |
+| [Experimental VFX & physics](prompts/experimental-vfx-physics.md) | Surreal systems, gravity, shadows, material and sound response | 5 | ![Original experimental weather sphere](assets/experimental-vfx.png) |
 
-**Total: 60 original prompts across 12 practical collections** — each includes a recommended mode, duration, aspect ratio, a detailed copy-ready prompt, and variables to customize.
+**Total: 70 original prompts across 14 practical collections** — each includes a recommended mode, duration, aspect ratio, a detailed copy-ready prompt, and variables to customize.
 
 ## Fast start
 
@@ -163,8 +165,8 @@ Code and original written material in this repository are available under the [M
 
 <div align="center">
 
-**Grok Imagine 1.5 prompts · AI video prompts · text to video · image to video · video editing · native audio**
+**Grok Imagine 1.5 prompts · AI video prompts · text to video · image to video · short drama · experimental VFX · video editing · native audio**
 
-[Start creating online](https://seaimagine.com/model/grok-imagine-1-5/) · [Browse all 60 prompts](prompts/README.md) · [Share your prompt](https://github.com/seaimagine/awesome-grok-imagine-1-5-prompts/issues/new?template=prompt.yml)
+[Start creating online](https://seaimagine.com/model/grok-imagine-1-5/) · [Browse all 70 prompts](prompts/README.md) · [Share your prompt](https://github.com/seaimagine/awesome-grok-imagine-1-5-prompts/issues/new?template=prompt.yml)
 
 </div>

@@ -1,6 +1,6 @@
 # Grok Imagine 1.5 Prompt Library
 
-This index contains 60 original video prompts across 12 practical collections, written specifically for short, audio-aware Grok Imagine 1.5 workflows.
+This index contains 70 original video prompts across 14 practical collections, written specifically for short, audio-aware Grok Imagine 1.5 workflows.
 
 | # | Collection | Prompt count |
 |---:|---|---:|
@@ -16,6 +16,8 @@ This index contains 60 original video prompts across 12 practical collections, w
 | 10 | [Commerce, livestream & digital humans](commerce-digital-humans.md) | 5 |
 | 11 | [Education, science & industry](education-science-industry.md) | 5 |
 | 12 | [Nature, festivals & pets](nature-festivals-pets.md) | 5 |
+| 13 | [Short-form drama & web series](short-form-drama-series.md) | 5 |
+| 14 | [Experimental VFX & physics](experimental-vfx-physics.md) | 5 |
 
 ## Placeholder convention
 

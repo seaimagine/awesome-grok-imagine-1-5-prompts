@@ -1,6 +1,6 @@
 # 🎬 Grok Imagine 1.5 プロンプト集
 
-Grok Imagine 1.5 向けに新規作成した、実用的な AI 動画プロンプト 60 本です。物語、広告、アニメ、編集、デジタルヒューマン、教育、科学、自然、ペットなど 12 分野を収録しています。
+Grok Imagine 1.5 向けに新規作成した、実用的な AI 動画プロンプト 70 本です。物語、縦型ドラマ、広告、アニメ、実験 VFX、デジタルヒューマン、教育、科学、自然など 14 分野を収録しています。
 
 [English](README.md) · [简体中文](README_zh-CN.md) · **日本語** · [Español](README_es-ES.md) · [한국어](README_ko-KR.md)
 
@@ -22,6 +22,8 @@ Grok Imagine 1.5 向けに新規作成した、実用的な AI 動画プロン�
 - [コマース・ライブ配信・デジタルヒューマン](prompts/commerce-digital-humans.md)
 - [教育・科学・産業](prompts/education-science-industry.md)
 - [自然・季節行事・ペット](prompts/nature-festivals-pets.md)
+- [ショートドラマ・ウェブシリーズ](prompts/short-form-drama-series.md)
+- [実験 VFX・物理表現](prompts/experimental-vfx-physics.md)
 
 ## 基本テンプレート
 
@@ -53,4 +55,4 @@ Grok Imagine 1.5 向けに新規作成した、実用的な AI 動画プロン�
 
 モデルの仕様は変更される場合があります。[xAI 公式ドキュメント](https://docs.x.ai/developers/model-capabilities/video/generation)も確認してください。
 
-[60 本のプロンプトを見る](prompts/README.md) · [プロンプトを投稿](https://github.com/seaimagine/awesome-grok-imagine-1-5-prompts/issues/new?template=prompt.yml) · [メインガイドへ](README.md)
+[70 本のプロンプトを見る](prompts/README.md) · [プロンプトを投稿](https://github.com/seaimagine/awesome-grok-imagine-1-5-prompts/issues/new?template=prompt.yml) · [メインガイドへ](README.md)

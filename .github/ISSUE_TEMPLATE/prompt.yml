@@ -35,6 +35,8 @@ body:
         - Commerce, livestream, and digital humans
         - Education, science, and industry
         - Nature, festivals, and pets
+        - Short-form drama and web series
+        - Experimental VFX and physics
         - New collection suggestion
     validations:
       required: true
